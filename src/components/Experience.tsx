@@ -5,15 +5,16 @@ const experiences = [
   
   {
     title: "Software Developer Intern",
-    company: "Engineering Calculator Project",
-    date: "2022 - 2023",
+    company: "CODERSBRAIN TECHNOLOGY PVT. LTD.",
+    date: "May'24 - July'24",
     location: "Remote",
     description: [
-      "Developed a specialized calculator application tailored for engineering calculations and conversions",
-      "Implemented complex mathematical algorithms and engineering-specific formulas with high precision",
-      "Created an intuitive user interface with responsive design principles for seamless functionality across devices",
-      "Conducted thorough testing to ensure accuracy of calculations and reliability of the application"
+      "Collaborated with the Software Development Team to design and test scalable web applications during a focused internship program",
+      "Gained hands-on experience in debugging, performance optimization, and applying software engineering best practices",
+      "Worked with version control systems like Git to manage code changes and streamline team collaboration",
+      "Demonstrated strong self-discipline and independence in completing tasks while aligning with team objectives and deadlines"
     ]
+    
   }
 ];
 
