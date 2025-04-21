@@ -16,13 +16,13 @@ const certifications = [
   {
     title: "Microsoft Azure AI-900 Fundamentals",
     issuer: "Microsoft",
-    date: "2023",
+    date: "2024",
     link: "https://www.credly.com/badges/c50df6dc-5f6c-4a4a-9b90-da9ea562211e/linked_in_profile"
   },
   {
     title: "Postman API Fundamentals Student Expert",
     issuer: "Postman",
-    date: "2022",
+    date: "2025",
     link: "https://badgr.com/public/assertions/T1uxOvcVScOoeZaxMUrhww?identity__email=karangautam174@gmail.com"
   }
 ];
