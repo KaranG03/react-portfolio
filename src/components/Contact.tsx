@@ -91,7 +91,7 @@ const Contact = () => {
               <MapPin className="w-6 h-6 text-blue-600 dark:text-blue-400 mt-0.5 mr-3" />
               <div>
                 <h4 className="font-semibold">Location</h4>
-                <p className="text-gray-700 dark:text-gray-300">Delhi, India</p>
+                <p className="text-gray-700 dark:text-gray-300">Vellore, India</p>
               </div>
             </div>
           </div>
